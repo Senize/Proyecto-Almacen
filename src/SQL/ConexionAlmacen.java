@@ -19,7 +19,7 @@ public class ConexionAlmacen {
    private static String hostname = "localhost";
    private static String port = "3306";
    private static String username = "root";
-   private static String password = "";
+   private static String password = "12345678";
    private static String ConnectionURL;
    public static Connection conn;
 
